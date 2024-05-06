@@ -3,7 +3,10 @@ import java.util.Stack;
 
 public class App {
     public static void main(String[] args) throws Exception {
-
+        /*
+            I have done all the input for you. You will need to finish the code
+            by filling in all the todos
+        */
         // Input the entire line
         Scanner input = new Scanner(System.in);
         String line = input.nextLine();
